@@ -1,0 +1,15 @@
+[ {
+  "Name": "Module 7: Azure IoT Edge Module",
+  "Language": "English",
+  "BaseURL": "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_13-deploy-and-debug-custom-azure-iot-edge-module.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_14-iot-edge-device-in-restricted-network.md",
+      "Order": 2
+    }
+  ]
+}]
