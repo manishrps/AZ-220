@@ -1,0 +1,15 @@
+[ {
+  "Name": "Module 6: Azure IoT Edge Deployment Process",
+  "Language": "English",
+  "BaseURL": "https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_11-introduction-to-azure-iot-edge.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer/master/Instructions/Labs/LAB_AK_12-setup-an-iot-edge-gateway.md",
+      "Order": 2
+    }
+  ]
+}]
